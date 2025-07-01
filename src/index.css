@@ -23,6 +23,7 @@ a:hover {
 }
 
 body {
+  background-color: #52d2d2; /* or any shade of blue you like */
   margin: 0;
   display: flex;
   place-items: center;
